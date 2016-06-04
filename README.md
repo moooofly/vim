@@ -1,3 +1,6 @@
+## 前置条件
+下面安装的vim插件中，部分对vim版本有较高要求（>=7.4）
+
 ### 安装
 
     wget https://raw.github.com/thbourlove/vim/master/install -O - | sh
