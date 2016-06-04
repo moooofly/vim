@@ -1,6 +1,9 @@
 ## 前置条件
 下面安装的vim插件中，部分对vim版本有较高要求（>=7.4）
 
+## 注意
+在install_ctags脚本中会到gist.github.com上下载0000-PHP-parser-rewrite-full-string-parameters.patch文件，可能会遇到无法成功连接到情况
+
 ### 安装
 
     wget https://raw.github.com/thbourlove/vim/master/install -O - | sh
