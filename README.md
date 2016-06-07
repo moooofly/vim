@@ -6,11 +6,11 @@
 
 ### 安装
 
-    wget https://raw.github.com/thbourlove/vim/master/install -O - | sh
+    wget https://raw.github.com/moooofly/vim/master/install -O - | sh
 
 ### ctags 安装
 
-    wget https://raw.github.com/thbourlove/vim/master/install_ctags -O - | sh
+    wget https://raw.github.com/moooofly/vim/master/install_ctags -O - | sh
 
 ### ctags 使用姿势
 
